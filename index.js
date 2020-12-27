@@ -8,5 +8,5 @@ app.get('/', function (req, res) {
 });
 
 app.listen(conf.port, function () {
-  console.log('Example app listening on port 3000!');
+  console.log(`server start on http://localhost:${con.port}`);
 });
