@@ -8,5 +8,5 @@ app.get('/', function (req, res) {
 });
 
 app.listen(conf.port, function () {
-  console.log(`server start on http://localhost:${con.port}`);
+  console.log(`server start on http://localhost:${conf.port}`);
 });
