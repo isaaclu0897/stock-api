@@ -37,7 +37,12 @@ module.exports = {
 };
 ```
 
+RESTFul 設計參考
+https://tw.alphacamp.co/blog/rest-restful-api
+
 API
-| Order | URI | Method | parameter | result |
-| -------- | -------- | -------- | -------- | -------- |
-|  |  |  |
+| Order | Method | URI | parameter | result |
+|:-----:|:------:|:---:|:---------:|:------:|
+|   1   |  GET   |     |           |        |
+|   2   |        |     |           |        |
+|       |        |     |           |        |
